@@ -1,2 +1,2 @@
 # onechess-game-policy
-one chess elite policy page.
+OneChess Game policy page.
